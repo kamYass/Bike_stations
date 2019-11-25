@@ -1,0 +1,17 @@
+User Story1: improve the code 
+Tasks: 
+1.	Add uni test
+2.	Add  the help for different models used
+3.	Rename or not the name output file (contenation model+bike_stations.json)
+	   
+	   
+User Story2: indutrialize code   
+Tasks:
+1.	create ansible playbook (if we use ansible or other tools): the playbook contains
+     	_lib to install or check the installation (sklearn ...)
+	 _ create output folder or check if is exist
+	 
+	 
+	 
+User Story3:_manage different use case
+1.	Dicuss with data scientist how process null value in longitude and/or latitude(in this code we ignore null value)
